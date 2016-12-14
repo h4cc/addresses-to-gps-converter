@@ -1,0 +1,15 @@
+{
+    "name": "h4cc/addresses-to-gps-converter",
+    "description": "Simple php script using multiple APIs to convert a Address list to GPS coordinates.",
+    "type": "application",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Julius Beckmann",
+            "email": "github@h4cc.de"
+        }
+    ],
+    "require": {
+        "willdurand/geocoder": "^3.3"
+    }
+}
